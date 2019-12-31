@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "​https://hosamf1992.github.io/Mister-Coin/static/css/main.ff21d55d.chunk.css",
+    "main.js": "​https://hosamf1992.github.io/Mister-Coin/static/js/main.e786dc34.chunk.js",
+    "main.js.map": "​https://hosamf1992.github.io/Mister-Coin/static/js/main.e786dc34.chunk.js.map",
+    "runtime-main.js": "​https://hosamf1992.github.io/Mister-Coin/static/js/runtime-main.c63a2e0c.js",
+    "runtime-main.js.map": "​https://hosamf1992.github.io/Mister-Coin/static/js/runtime-main.c63a2e0c.js.map",
+    "static/js/2.9d5bc014.chunk.js": "​https://hosamf1992.github.io/Mister-Coin/static/js/2.9d5bc014.chunk.js",
+    "static/js/2.9d5bc014.chunk.js.map": "​https://hosamf1992.github.io/Mister-Coin/static/js/2.9d5bc014.chunk.js.map",
+    "index.html": "​https://hosamf1992.github.io/Mister-Coin/index.html",
+    "precache-manifest.2b9df673cfc7b32eed8c97ca3d021de7.js": "​https://hosamf1992.github.io/Mister-Coin/precache-manifest.2b9df673cfc7b32eed8c97ca3d021de7.js",
+    "service-worker.js": "​https://hosamf1992.github.io/Mister-Coin/service-worker.js",
+    "static/css/main.ff21d55d.chunk.css.map": "​https://hosamf1992.github.io/Mister-Coin/static/css/main.ff21d55d.chunk.css.map",
+    "static/js/2.9d5bc014.chunk.js.LICENSE": "​https://hosamf1992.github.io/Mister-Coin/static/js/2.9d5bc014.chunk.js.LICENSE",
+    "static/media/avatar.png": "​https://hosamf1992.github.io/Mister-Coin/static/media/avatar.faf31439.png",
+    "static/media/HomePage.scss": "​https://hosamf1992.github.io/Mister-Coin/static/media/background.dc30b176.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c63a2e0c.js",
+    "static/js/2.9d5bc014.chunk.js",
+    "static/css/main.ff21d55d.chunk.css",
+    "static/js/main.e786dc34.chunk.js"
+  ]
+}
